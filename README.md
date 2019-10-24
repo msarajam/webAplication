@@ -1,6 +1,6 @@
 # Web Application
 
-Web Application for start web server on posrt 8080
+Web Application to start web server on posrt 8080
 
 ```
 http://localhost:8080/?name=Your-Name
