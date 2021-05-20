@@ -1,4 +1,4 @@
-# Web Application
+# Simple Web Application
 
 Web Application to start web server on posrt 8080
 
